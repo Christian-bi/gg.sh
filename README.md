@@ -1,2 +1,2 @@
 # gg.sh
-guessing game
+guessing game for test demonstration
